@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Bootstrap,Javascript.**
 
-- 👨‍💻 All of my projects are available at [https://ithinkservices.com/](https://www.ithinkservices.com/)
+- 👨‍💻 All of my projects are available at [https://vivek-msn.github.io/Responsive-Portfolio-Bootstrap5/)
 
 - 📝 I write articles on [www.socialjaankari.com](www.socialjaankari.com)
 
