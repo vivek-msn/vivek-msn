@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vivek Saini</h1>
-<h3 align="center">A passionate Wordpress developer from India</h3>
+<h3 align="center">A passionate WordPress Developer from India</h3>
 
-- 🌱 I’m currently learning **Bootstrap,Javascript.**
+- 🌱 I’m currently learning **React.**
 
-- 👨‍💻 All of my projects are available at [https://vivek-msn.github.io/Responsive-Portfolio-Bootstrap5/)
+- 👨‍💻 All of my projects are available at [https://viveksaini.in
 
 - 📝 I write articles on [www.socialjaankari.com](www.socialjaankari.com)
 
